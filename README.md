@@ -1,0 +1,1 @@
+ This repository contains 4 programs that do the same thing. Try to analyze the syscalls on the four programs to understand what lies underline every architecture. (strace ./<path-to-executable/script>) The programs are written in Assembly, C, Python and JS.
